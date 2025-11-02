@@ -1,4 +1,4 @@
-# LumiraAPI Menu ref
+# LumiraAPI Menu
 
 ## ⚡ Быстрый старт
 
